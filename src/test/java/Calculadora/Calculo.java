@@ -9,7 +9,7 @@ public class Calculo {
 		
 		Operacoes operacoes = new Operacoes();
 		
-		operacoes.soma(50, 38);
+		operacoes.soma(50, 38, 0);
 	
 		operacoes.subtracao(10, 5);	
 
